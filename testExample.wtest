@@ -1,9 +1,7 @@
-import example.pepita
+import profesional.*
 
-describe "group of tests for pepita" {
-
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+describe "tests" {
+  test "description" {
+    
   }
-
 }
